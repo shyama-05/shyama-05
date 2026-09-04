@@ -1,16 +1,15 @@
-# 💫 Hi 👋, Shyama Mani
+#  Hi ,I am Shyama Mani
 **A passionate computer science engineer**
 
-Email Me 👉 ✉️ **shyamamani17@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me  ✉️ **shyamamani17@gmail.com** For Collaboration/Project or Anything Else. 
 
-- 🔭 Currently building web projects and sharpening my DSA skills
-👯 Looking to collaborate on open-source projects, hackathons & innovative ideas
-🤝 Looking for guidance in open-source and real-world software development
-🌱 Currently learning React, backend development, DSA & Git/GitHub
-💬 Ask me about C++, web development, hackathons & student projects
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-  Currently building web projects and sharpening my DSA skills
+- Looking to collaborate on open-source projects, hackathons & innovative ideas
+- Looking for guidance in open-source and real-world software development
+- Currently learning React, backend development, DSA & Git/GitHub
+- Ask me about C++, web development, hackathons & student projects
+-  **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a Content Creator. 😊😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyama-mani ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shyama-05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyamamani17@gmail.com) 
@@ -28,11 +27,9 @@ Email Me 👉 ✉️ **shyamamani17@gmail.com** For Collaboration/Project or Any
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
