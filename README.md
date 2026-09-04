@@ -1,6 +1,16 @@
-# 💫 About Me:
-🔭 Currently building web projects and sharpening my DSA skills<br>👯 Looking to collaborate on open-source projects, hackathons & innovative ideas<br>🤝 Looking for guidance in open-source and real-world software development<br>🌱 Currently learning React, backend development, DSA & Git/GitHub<br>💬 Ask me about C++, web development, hackathons & student projects<br>⚡ Fun fact: I enjoy turning ideas into working projects 🚀
+# 💫 Hi 👋, Shyama Mani
+**A passionate computer science engineer**
 
+Email Me 👉 ✉️ **shyamamani17@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 Currently building web projects and sharpening my DSA skills
+👯 Looking to collaborate on open-source projects, hackathons & innovative ideas
+🤝 Looking for guidance in open-source and real-world software development
+🌱 Currently learning React, backend development, DSA & Git/GitHub
+💬 Ask me about C++, web development, hackathons & student projects
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🔗 I am a Content Creator. 😊😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyama-mani ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shyama-05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyamamani17@gmail.com) 
