@@ -1,0 +1,31 @@
+name: OSS Contribution Cards
+
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution cards
+        uses: Sagargupta16/oss-contributions-card-action@v1
+        with:
+          username: shyama-05
+
+      - name: Save generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/oss.svg assets/oss-merged.svg assets/oss-review.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update open source contribution cards"
+            git push
+          fi
