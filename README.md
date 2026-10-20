@@ -37,5 +37,16 @@ Email Me  ✉️ **shyamamani17@gmail.com** For Collaboration/Project or Anythin
 
 ### 🔝 Top Contributed Repo
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=shyama-05&limit=5&theme=dark)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">🌍 My Open Source Contributions</h2>
+
+<p align="center">
+  <img src="assets/oss.svg" width="100%" alt="Open source contribution summary">
+</p>
+
+<p align="center">
+  <img src="assets/oss-merged.svg" width="100%" alt="Merged pull requests">
+</p>
+
+<p align="center">
+  <img src="assets/oss-review.svg" width="100%" alt="Pull requests under review">
+</p>
