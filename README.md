@@ -10,6 +10,21 @@ Email Me  ✉️ **shyamamani17@gmail.com** For Collaboration/Project or Anythin
 - Ask me about C++, web development, hackathons & student projects
 -  **Fun fact:** I Love Tech and Tech Love Me
 
+### 🔝 Top Contributed Repo
+
+<h2 align="center">🌍 My Open Source Contributions</h2>
+
+<p align="center">
+  <img src="assets/oss.svg" width="100%" alt="Open source contribution summary">
+</p>
+
+<p align="center">
+  <img src="assets/oss-merged.svg" width="100%" alt="Merged pull requests">
+</p>
+
+<p align="center">
+  <img src="assets/oss-review.svg" width="100%" alt="Pull requests under review">
+</p>
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyama-mani ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shyama-05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyamamani17@gmail.com) 
