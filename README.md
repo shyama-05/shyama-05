@@ -37,6 +37,5 @@ Email Me  ✉️ **shyamamani17@gmail.com** For Collaboration/Project or Anythin
 
 ### 🔝 Top Contributed Repo
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=shyama-05&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=shyama-05&limit=5&theme=dark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
